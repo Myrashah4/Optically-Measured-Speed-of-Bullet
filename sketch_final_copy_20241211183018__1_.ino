@@ -1,5 +1,5 @@
 //CODE FOR OPTOELECTRONICS PROJECT : OPTICALLY MEASURED SPEED OF BULLET
-// AUTHOR : MYRA SHAH (276834), MATIO HASHUL (276783), ADRIANNA SENDYKA (263546)
+// AUTHOR : MYRA SHAH
 
 /*A speed measurement system using laser modules and LDRs. 
 It calculates the speed of objects by measuring the time between interruptions of two laser beams.
